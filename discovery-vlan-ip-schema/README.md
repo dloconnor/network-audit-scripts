@@ -1,3 +1,5 @@
+
+
 from netmiko import ConnectHandler
 import csv
 import ipaddress
@@ -138,3 +140,4 @@ with open(output_file, "w", newline="") as f:
     writer.writerows(all_schema)
 
 print(f"Network schema exported to {output_file}")
+
