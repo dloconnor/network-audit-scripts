@@ -1,6 +1,6 @@
-### ARP and MAC Script
+ARP and MAC Script
 
-- Useful script to audit L2 and L3 switches to pull together device MAC and IP addresses and connected switchport.  Output into csv file.
+Useful script to audit L2 and L3 switches to pull together device MAC and IP addresses and connected switchport.  Output into csv file.
 
 #!/usr/bin/env python3
 
